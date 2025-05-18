@@ -1,0 +1,46 @@
+* {
+    
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.gameContainer {
+    border: solid black;
+    border-width: 5px;
+    border-radius: 20px;
+    max-width: 500px;
+    background-color:rgb(132, 214, 172);
+}
+.inputContainer {
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(53, 118, 115);
+}
+
+.inputrow {
+    font-size: 15px;
+    text-align: center;
+    margin: 20px;
+}
+
+#guessInput {
+    border-radius:4px;
+
+
+}
+#submitGuess {
+
+}
+#feedbackContainer{
+
+}
+#feedback {
+    font-size: 28px;
+    justify-self: center;
+    font-style: italic;
+}
